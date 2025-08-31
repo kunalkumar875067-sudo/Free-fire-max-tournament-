@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Free Fire Max Tournament</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(120deg, #141e30, #243b55);
+      color: white;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background: #ff5722;
+      padding: 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    section {
+      padding: 40px 20px;
+    }
+    .card {
+      background: rgba(255, 255, 255, 0.1);
+      padding: 20px;
+      border-radius: 12px;
+      max-width: 700px;
+      margin: 20px auto;
+      box-shadow: 0 0 15px rgba(0,0,0,0.5);
+    }
+    button {
+      background: #ff5722;
+      border: none;
+      padding: 12px 20px;
+      border-radius: 8px;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+      margin-top: 15px;
+    }
+    button:hover {
+      background: #e64a19;
+    }
+    table {
+      width: 80%;
+      margin: 20px auto;
+      border-collapse: collapse;
+      background: rgba(255, 255, 255, 0.1);
+    }
+    table, th, td {
+      border: 1px solid white;
+    }
+    th, td {
+      padding: 10px;
+    }
+    footer {
+      background: #111;
+      padding: 20px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🔥 Free Fire Max Tournament 🔥</h1>
+    <p>Show your skills and win exciting prizes!</p>
+  </header>
+
+  <section>
+    <div class="card">
+      <h2>📅 Tournament Details</h2>
+      <p><b>Date:</b> 15th September 2025</p>
+      <p><b>Entry Fee:</b> ₹50 per player</p>
+      <p><b>Prize Pool:</b> ₹5000 🏆</p>
+      <p><b>Mode:</b> Squad Battle (4 Players)</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="card">
+      <h2>📜 Rules</h2>
+      <ul style="text-align:left; max-width:600px; margin:auto;">
+        <li>No hacking or cheating ❌</li>
+        <li>Squads must join on time</li>
+        <li>One player can join only 1 team</li>
+        <li>Room ID & Password will be shared on WhatsApp before the match</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <div class="card">
+      <h2>📝 Register Now</h2>
+      <p>Click the button below to register your squad</p>
+      <a href="https://forms.gle/EPqtSvQRYPEC1Ne58" target="_blank">
+        <button>Register Here</button>
+      </a>
+    </div>
+  </section>
+
+  <section>
+    <div class="card">
+      <h2>🏆 Leaderboard</h2>
+      <table>
+        <tr>
+          <th>Rank</th>
+          <th>Team Name</th>
+          <th>Points</th>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>Team Alpha</td>
+          <td>150</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Squad X</td>
+          <td>120</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>FF Warriors</td>
+          <td>100</td>
+        </tr>
+      </table>
+      <p>(Leaderboard will be updated after each match)</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>📞 Contact: +91 7217862992 | 📧 anilofficial0720@gmail.com</p>
+    <p>Made with ❤️ by Anil</p>
+  </footer>
+</body>
+</html>
